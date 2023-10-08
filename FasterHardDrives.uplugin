@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0.0",
 	"SemVersion": "1.0.0",
-	"FriendlyName": "FasterHardDrives",
+	"FriendlyName": "Faster Hard Drives",
 	"Description": "Faster Hard Drive Research !",
 	"Category": "Modding",
 	"CreatedBy": "Paloys",
@@ -23,10 +23,10 @@
 		}
 	],
 	"Modules": [
-        	{
-            	"Name": "FasterHardDrives",
-            	"Type": "Runtime",
-            	"LoadingPhase": "Default"
-        	}
+		{
+			"Name": "FasterHardDrives",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
 	]
 }
